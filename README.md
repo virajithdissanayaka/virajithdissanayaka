@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi, I'm Virajith Dissanayaka</h1>
-<h3 align="center">Final year undergraduate @ UCSC</h3>
+<h3 align="center">Computer science Graduate from UCSC</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajithdissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="virajithdissanayaka" /> </p>
